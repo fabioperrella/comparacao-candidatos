@@ -21,6 +21,7 @@ Item | Álvaro Dias | Ciro Gomes | Cristovam Buarque | Eymael | Fernando Collor 
 A favor da reforma da previdência? |  ?  |  ?  |  ?  |  ?  |  ?  |  ?  |  ?  |  ?  |  sim  |  ?  |  sim  |  ? 
 A favor da reforma da trabalhista? |  ?  |  nao  |  ?  |  ?  |  ?  |  ?  |  ?  |  ?  |  ?  |  ?  |  ?  |  ? 
 A favor do aborto? |  ?  |  ?  |  ?  |  ?  |  ?  |  ?  |  ?  |  ?  |  ?  |  nao  |  nao  |  ? 
+A favor do estatuto do desarmamento? |  ?  |  ?  |  ?  |  ?  |  ?  |  ?  |  ?  |  ?  |  ?  |  nao  |  nao  |  ? 
 
 ## Ideias
 
