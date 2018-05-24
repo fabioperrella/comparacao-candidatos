@@ -19,7 +19,8 @@ Ainda não temos a lista oficial de todos os candidatos. Caso esteja faltando al
 Item | Álvaro Dias | Ciro Gomes | Cristovam Buarque | Eymael | Fernando Collor | Flávio Rocha | Geraldo Alckmin | Guilherme Boulos | Henrique Meirelles | Jair Bolsonaro | João Amoêdo | Marina Silva
 ---- | ----------- | ---------- | ----------------- | ------ | --------------- | ------------ | --------------- | ---------------- | ------------------ | -------------- | ----------- | ------------
 A favor da reforma da previdência? |  ?  |  ?  |  ?  |  ?  |  ?  |  ?  |  ?  |  ?  |  sim  |  ?  |  sim  |  ? 
-A favor da reforma da trabalhista |  ?  |  nao  |  ?  |  ?  |  ?  |  ?  |  ?  |  ?  |  ?  |  ?  |  ?  |  ? 
+A favor da reforma da trabalhista? |  ?  |  nao  |  ?  |  ?  |  ?  |  ?  |  ?  |  ?  |  ?  |  ?  |  ?  |  ? 
+A favor do aborto? |  ?  |  ?  |  ?  |  ?  |  ?  |  ?  |  ?  |  ?  |  ?  |  nao  |  nao  |  ? 
 
 ## Ideias
 
