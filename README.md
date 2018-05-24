@@ -26,6 +26,7 @@ A favor do estatuto do desarmamento? |  ?  |  ?  |  ?  |  ?  |  ?  |  ?  |  ?  |
 ## Ideias
 
 - Criar tabela de comparação para candidatos ao governo dos estados, senado, camara dos deputados.
+- Colocar links nos `sim` e `não` para dar mais informações sobre o posicionamento de cada candidato
 
 
 ## TODO
